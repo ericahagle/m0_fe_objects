@@ -1,5 +1,8 @@
 # Self-Evaluation
 
 - WThis final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
+    - Great! I recently went through a pre-bootcamp type of class learning Python, and I'm so so so happy to see how learning that really made understanding some of the same concepts in JavaScript SO much easier. I used to really struggle with some of these concepts in JS, but learning them this time was a piece of cake. (Don't worry, I don't expect this ease to continue! I'm really looking forward to bigger challenges in Mod 1 and beyond, but man it feels good to finally feel comfortable with these basics!)
 - How is your workflow going, in terms of taking breaks, staying focused, etc.?
+    - I don't have too much trouble staying focused, but I need to remember to take breaks. Sometimes I'm good about it, but often I get in the zone and just don't want to get up for a long time. But I know that after a while, I should get up anyway, because getting away from the work for even a few minutes can really help with my mental state, eye health, and even clear my mind to do better work.
 - What did you learn from this exercise that you want to remember as you begin Mod 1?
+    - 'Objects' in JS are (aside from minor syntactic differences) totally the same thing as 'Dictionaries' in Python!
